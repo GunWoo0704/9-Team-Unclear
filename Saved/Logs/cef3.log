@@ -3,3 +3,5 @@
 [1026/223001.028:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [1026/223001.067:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [1026/223001.067:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1211/220633.170:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1211/221419.195:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
