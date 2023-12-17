@@ -5,6 +5,7 @@
 [1026/223001.067:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [1211/220633.170:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [1211/221419.195:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+<<<<<<< HEAD
 [1216/041806.602:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [1216/041909.335:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [1216/041909.338:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
@@ -13,3 +14,5 @@
 [1216/041909.346:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 55
 [1216/041909.576:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from C:/Users/USER/Desktop/9Team/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/USER/Desktop/9Team/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [1216/041909.579:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from C:/Users/USER/Desktop/9Team/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/USER/Desktop/9Team/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+=======
+>>>>>>> 33ff6be53f66f3ba850bbeadb2cb03443902ef7e
